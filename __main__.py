@@ -1,7 +1,6 @@
 from givemeone.libgivemeone import give
 from argparse import ArgumentParser
 import re
-from random import randint
 from pathlib import Path
 from uuid import uuid4
 
